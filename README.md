@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/mikejavier/ideas/raw/master/Screen%20Shot%202018-08-19%20at%2010.58.56.png" />
+  <img src="https://github.com/mikejavier/ideas/raw/master/Screen%20Shot%202018-08-19%20at%2010.58.56.png" width="400" />
 </p>
 
 # iDeas
